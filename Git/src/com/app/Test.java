@@ -8,6 +8,11 @@ public class Test {
 		System.out.println("hello");
 		if(Object.class) {
 			
+			public void m1()
+			{
+
+			}
+			
 		}
 	}
 }
